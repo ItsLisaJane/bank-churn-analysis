@@ -1,10 +1,10 @@
-#Retail Bank Customer Churn Analysis
+# Retail Bank Customer Churn Analysis
 
-##Project Overview
+## Project Overview
 
 Analysed 5,000 retail banking customers and 12 months of behavioural activity data to identify the key drivers of customer churn and develop targeted retention recommendations.
 
-##Business Problem
+## Business Problem
 
 Customer attrition reduces revenue, increases acquisition costs and weakens long-term profitability.
 
@@ -12,7 +12,7 @@ This project investigates which customer segments are most likely to churn and i
 
 Dataset
 
-##The analysis combines:
+## The analysis combines:
 
 - 5,000 retail banking customers
 - 12 months of activity data
@@ -22,7 +22,7 @@ Dataset
 - Mobile engagement metrics
 - Transaction activity
   
-##Tools Used
+## Tools Used
 
 - Python
 - Pandas
@@ -31,7 +31,7 @@ Dataset
 - Jupyter Notebook
 - Git/GitHub
 
-##Methodology
+## Methodology
 
 1. Data Quality Assessment
 2. Data Cleaning & Standardisation
@@ -39,7 +39,7 @@ Dataset
 4. Exploratory Data Analysis
 5. Churn Driver Identification
    
-##Key Findings
+## Key Findings
 
 1. Early Customer Attrition Represents The Largest Retention Opportunity
 - New customers experienced the highest churn rates.
@@ -56,14 +56,14 @@ Dataset
 4. Low Digital Engagement Is The Strongest Predictor Of Churn
 - Low-engagement customers were approximately six times more likely to churn.
   
-##Business Recommendations
+## Business Recommendations
 
 - Improve onboarding journeys.
 - Prioritise complaint resolution and service recovery.
 - Cross-sell relevant products to eligible customers.
 - Increase mobile app engagement through targeted campaigns.
 
-##Deliverables
+## Deliverables
 
 - Executive presentation (slides/)
 - Data preparation notebook (notebooks/01_data_preparation.ipynb)
@@ -72,6 +72,6 @@ Dataset
 
 <img width="1071" height="649" alt="tableau_dashboard" src="https://github.com/user-attachments/assets/cf3be14d-b7d6-4db8-a7eb-1a0840316fef" />
 
-##Disclaimer
+## Disclaimer
 
 This project was completed for portfolio and learning purposes using a simulated retail banking dataset.
